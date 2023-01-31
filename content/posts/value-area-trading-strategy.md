@@ -1,6 +1,7 @@
 ---
 title: "Value Area Trading Strategy"
 date: 2023-01-30T21:27:58+07:00
+draft: true
 ---
 
 # Hello world
